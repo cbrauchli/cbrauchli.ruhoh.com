@@ -1,3 +1,4 @@
+
 A default blog scaffold for **ruhoh** compatible static blog parsers.
 
 **This version is for [ruhohSpec v1.0](http://ruhoh.com/universal-blog-api/) and is only compatible with ruhoh gem 1.0.x.x**
